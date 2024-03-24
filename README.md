@@ -1,0 +1,3 @@
+# PR3_PD_XavierHidalgo
+
+## PRACTICA 2: WIFI y BLUETOOTH
