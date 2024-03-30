@@ -1,6 +1,6 @@
 # PR3_PD_XavierHidalgo
 
-## PRACTICA 2: WIFI y BLUETOOTH
+## PRACTICA 3: WIFI y BLUETOOTH
 
 ### Practica A generación de una pagina web
 
